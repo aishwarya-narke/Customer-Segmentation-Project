@@ -1,0 +1,31 @@
+Coustemer ID ,Gender,Age,Education,Annual Income(K$),Spending Score (1-100)
+1,M,19,High School,15,39
+2,M,21,Graduate,15,81
+3,F,20,Graduate,16,68
+4,F,23,High School,17,44
+5,F,31,Uneducated,18,92
+6,F,22,Graduate,19,46
+7,M,25,Unknown,20,87
+8,F,23,College,23,43
+9,M,64,Doctorate,25,38
+10,M,33,College,26,29
+11,F,57,Unknown,29,91
+12,F,34,Graduate,33,55
+13,F,27,Graduate,36,62
+14,M,65,Uneducated,39,87
+15,M,44,High School,42,67
+16,M,27,Uneducated,44,54
+17,F,63,Graduate,47,56
+18,F,47,High School,49,27
+19,M,72,Unknown,52,38
+20,F,24,High School,58,58
+21,M,18,High School,64,52
+22,F,56,Graduate,68,39
+23,F,74,Uneducated,72,71
+24,M,72,Unknown,77,76
+25,M,38,College,77,82
+26,M,47,College,81,16
+27,M,37,Doctorate,82,28
+28,F,44,Doctorate,84,36
+29,F,52,Graduate,88,46
+30,M,29,Unknown,91,77
